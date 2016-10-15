@@ -1,0 +1,15 @@
+1. Create User
+
+
+2. Find the goods in the store
+	- Fishing Reel
+	- fishing line
+
+3. choose products of concrete manufacturer (by dropdown menu)
+	- spro
+	- berkley
+	
+4. buy
+	- add product to cart,
+	- arrange delivery,
+	- confirm
