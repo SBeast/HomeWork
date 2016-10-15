@@ -1,4 +1,5 @@
 1. Create User
+	1.1 Login with new user
 
 
 2. Find the goods in the store
@@ -13,3 +14,6 @@
 	- add product to cart,
 	- arrange delivery,
 	- confirm
+	
+5. as Admin
+	- change order status
