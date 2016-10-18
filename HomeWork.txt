@@ -1,5 +1,7 @@
 ctrl + alt + l - автоформат
 ctrl + / - автозакоментировать
+.//* все элементы на странице
+.//a все линки на странице
 
 
 написать метод умножения 2 int static
@@ -18,3 +20,9 @@ install Git
 https://help.github.com/articles/generating-an-ssh-key/
 generate keys
 sent public key to techer
+
+HW
+https://drive.google.com/drive/folders/0B7P46-HjBsqpd0M5SW1YVkd0LVE
+брать пример
+https://drive.google.com/open?id=0B7P46-HjBsqpbWdFV25PT3JnNDA
+написать все локаторы по тесткейсам 
