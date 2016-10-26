@@ -88,7 +88,7 @@ Need Help - нужно выбрать определенную строку со
 	3. нажать кнопку Вход (.//button[@type='submit'])
 	4. нажать на кнопку Сделки (.//li[@id='deal'])
 	5. выбрать сдедку с датой 2016-10-25 12-05 (.//td[text()='25.10.2016 12:05'])
-	 .//tr[.//td[contains(text(),'error')] and .//td[contains(text(),'Лукашин Олег Степанович')] and .//td[contains(text(),'01.01.2015 00:00')] and .//td[contains(text(),'Котейкин Геннадий Чебурахович')]]
+	 .//tr[.//td[text(),'error'] and .//td[contains(text(),'Лукашин Олег Степанович')] and .//td[contains(text(),'01.01.2015 00:00')] and .//td[contains(text(),'Котейкин Геннадий Чебурахович')]]
 	6. нажать кнопку Удалить (.//button[@name='delete'])
 	
 	*Expeced result*
